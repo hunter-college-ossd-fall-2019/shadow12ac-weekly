@@ -23,3 +23,4 @@ Replace the first row below with your contribution.
 |   9  |  [OpenStreet Map History](https://www.openstreetmap.org/changeset/76256170)   | OpenStreet Map feature | Added a pizzeria that has been part of my neighborhood for years     |
 |   9  |   [OpenStreet Map History](https://www.openstreetmap.org/changeset/76256460)  |  OpenStreet Map feature   | I added a new fast food restaurant that opened up recently     |
 |   9  |   [OpenStreet Map History](https://www.openstreetmap.org/changeset/76281455)  |  OpenStreet Map feature  |  Added a Comic book store in Flushing |
+|   9  |   [OpenStreet Map History](https://www.openstreetmap.org/changeset/76282068#map=18/40.73173/-73.86043)  |  OpenStreet Map feature  |  Added a popular supermarket in Rego Park and a pathway |
